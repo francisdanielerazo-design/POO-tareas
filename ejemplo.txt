@@ -1,0 +1,2 @@
+Hola, este es un ejemplo de constructor y destructor.
+Python maneja recursos automáticamente.
